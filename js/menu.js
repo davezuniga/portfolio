@@ -100,7 +100,7 @@
   var _CONTENT = [
     "print('Hello world!')",
     "console.log('you have found your candidate')",
-    "echo -e 'Lets talk ;'",
+    "echo -e 'Lets talk ;)'",
   ];
 
   //Current sentence being processed
