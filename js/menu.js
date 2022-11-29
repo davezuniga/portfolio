@@ -55,7 +55,7 @@
   }
 
   function change_text_work_off() {
-    dom_obj.work.innerHTML = "a Cloud & Data Automation Engineer";
+    dom_obj.work.innerHTML = "a Data & Python Engineer";
     dom_obj.work.style.color = "white";
     dom_obj.work.classList.remove("mune_btn");
   }
