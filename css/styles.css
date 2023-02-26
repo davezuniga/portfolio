@@ -3519,7 +3519,7 @@ img.u-pull-left {
   }
 
   .about-info__text {
-    padding: var(--vspace-1) 0 0 0;
+    /* padding: var(--vspace-1) 0 0 0; */
     margin-left: 0;
   }
 }
@@ -4378,6 +4378,8 @@ img.u-pull-left {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
+  padding-top: 30px;
 }
 
 .modal-btn {
@@ -4425,7 +4427,6 @@ img.u-pull-left {
   }
   #about-title{
     text-align: center;
-    margin-left: -8rem !important;
     margin-bottom: -10px;
   }
   .folio-list__item{
