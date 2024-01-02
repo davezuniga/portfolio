@@ -98,9 +98,10 @@
     * -------------------------------------------------- */
   //Text to change
   var _CONTENT = [
-    "print('Hello world!')",
-    "console.log('you have found your candidate')",
-    "echo -e 'Lets talk ;)'",
+    "echo -e 'Hello world!'",
+    "print('Just found your candidate')",
+    "console.log('Lets talk ;)')",
+    
   ];
 
   //Current sentence being processed
